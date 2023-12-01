@@ -1,5 +1,6 @@
 name: data
 on:
+  pull_request:
   schedule:
     - cron: 5 6 * * *
   workflow_dispatch: {}
@@ -19,10 +20,10 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://domains.dotgov.gov/dotgov-web/publicreports/current-federal
+          http_url: https://getgov-za.app.cloud.gov/api/v1/get-report/current-federal
           downloaded_filename: current-federal.csv
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://domains.dotgov.gov/dotgov-web/publicreports/current-full
+          http_url: https://getgov-za.app.cloud.gov/api/v1/get-report/current-full
           downloaded_filename: current-full.csv
