@@ -13,7 +13,7 @@
 
   <title>Welcome | Login.gov</title>
 
-  <script nonce="5ed15d3c3ec367d01d4d1248d6743129">
+  <script nonce="59bae71891b06c3d415dbfa4d2cc8248">
 //<![CDATA[
 
     document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
@@ -24,7 +24,7 @@
   <link rel="stylesheet" href="/assets/application-cac6ed93.css" media="all" />
   <link rel="stylesheet" href="/assets/tab_navigation_component-6311b2de.css" /><link rel="stylesheet" href="/assets/password_toggle_component-9050b0a0.css" />
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="v9IoBBAFKKqDzTPZPmD_Ya0eGfrtRZGl7f7GLRdbpTnW9Na6abLk75Kqv6DAOtbAsPQ3Sk0jk7xcQ9YTbSDJSA" />
+<meta name="csrf-token" content="0eFjQJpi77rAkNbmUz-tVB_5xUoAVx_1_Ea3LlgO07WikgvqdC9iHAnUy8EIkXoumXrM3-46jG0TqeMmrzDb5Q" />
 
   <link rel="apple-touch-icon" type="image/png" href="/assets/favicons/apple-touch-icon-24056e34.png" sizes="180x180" />
   <link rel="icon" type="image/png" href="/assets/favicons/favicon-40-0fde917b.png" sizes="40x40" />
@@ -32,7 +32,7 @@
   <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab-a510c7b9.svg" color="#e21c3d" />
   <meta content="#ffffff" name="theme-color" />
 
-  <script nonce="5ed15d3c3ec367d01d4d1248d6743129">
+  <script nonce="59bae71891b06c3d415dbfa4d2cc8248">
 //<![CDATA[
 
     _e=[],addEventListener("error",(e)=>_e.push(e));
@@ -67,7 +67,7 @@
         </div>
       </div>
       <div class="usa-banner__content usa-accordion__content" id="gov-banner">
-        <script nonce="5ed15d3c3ec367d01d4d1248d6743129">
+        <script nonce="59bae71891b06c3d415dbfa4d2cc8248">
 //<![CDATA[
 
           document.getElementById('gov-banner').setAttribute('hidden', '');
@@ -128,24 +128,24 @@
 
 
 
-<form class="simple_form margin-top-4 new_user" id="new_user" autocomplete="off" action="/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="zmgaVnr9_C-R9g4ZCeYcHjXOu10YBuoQsgXMAqNgATDA5d8hd9t3Be1PS8uj0eWZL7vQB8RZ9W2QK6Mxq8Lixw" autocomplete="off" />
-  <lg-validated-field error-id="validated-field-error-1de4cf07">
+<form class="simple_form margin-top-4 new_user" id="new_user" autocomplete="off" action="/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mmc6IziV7iGKgZZTof2lDMgDcpx_wsHJ1VTF8DZ9lTL8YI0Kh2dz7BVFx6tX-VYV_9I0GFinoVOn40MBttcITg" autocomplete="off" />
+  <lg-validated-field error-id="validated-field-error-1adcc82b">
   <script type="application/json" class="validated-field__error-strings">{"valueMissing":"This field is required"}</script>
   <div class="margin-bottom-4 email required user_email validated-field__input-wrapper"><label class="usa-label email required" for="user_email">Email address</label><input class="usa-input usa-input--big string email required validated-field__input" autocorrect="off" aria-invalid="false" required="required" type="email" name="user[email]" id="user_email" /></div>
 </lg-validated-field>
   <lg-password-toggle class="margin-bottom-4">
-  <lg-validated-field error-id="validated-field-error-72c97621">
+  <lg-validated-field error-id="validated-field-error-533f2ce4">
   <script type="application/json" class="validated-field__error-strings">{"valueMissing":"This field is required"}</script>
-  <div class="margin-bottom-4 password required user_password validated-field__input-wrapper"><label class="usa-label password required" for="password-toggle-input-7783cb9a">Password</label><input class="usa-input usa-input--big password required password-toggle__input validated-field__input" autocomplete="current-password" id="password-toggle-input-7783cb9a" aria-invalid="false" required="required" type="password" name="user[password]" /></div>
+  <div class="margin-bottom-4 password required user_password validated-field__input-wrapper"><label class="usa-label password required" for="password-toggle-input-ab401f74">Password</label><input class="usa-input usa-input--big password required password-toggle__input validated-field__input" autocomplete="current-password" id="password-toggle-input-ab401f74" aria-invalid="false" required="required" type="password" name="user[password]" /></div>
 </lg-validated-field>
   <input
-    id="password-toggle-7783cb9a"
+    id="password-toggle-ab401f74"
     type="checkbox"
     class="usa-checkbox__input password-toggle__toggle"
-    aria-controls="password-toggle-input-7783cb9a"
+    aria-controls="password-toggle-input-ab401f74"
   >
   <label
-    for="password-toggle-7783cb9a"
+    for="password-toggle-ab401f74"
     class="usa-checkbox__label password-toggle__toggle-label"
   >
     Show password
@@ -178,15 +178,15 @@
   <a class="display-none tablet:display-inline usa-link--external" target="_blank" rel="noopener noreferrer" href="https://www.gsa.gov">
     <img alt="" class="float-left margin-right-1" src="https://idp.int.identitysandbox.gov/assets/sp-logos/square-gsa-2e9100eb.svg" width="20" height="20" />
     US General Services Administration<span class="usa-sr-only">(opens new tab)</span></a>  <div class="language-picker usa-accordion footer__language-picker">
-  <button class="usa-accordion__button language-picker__label" aria-controls="language-picker-b7aee9ef" aria-expanded="false">
+  <button class="usa-accordion__button language-picker__label" aria-controls="language-picker-7cc3fb1b" aria-expanded="false">
     <img width="12" height="12" alt="" class="tablet:display-none" src="https://idp.int.identitysandbox.gov/assets/globe-blue-2852c5b0.svg" />
     <img width="12" height="12" alt="" class="display-none tablet:display-inline" src="https://idp.int.identitysandbox.gov/assets/globe-white-0cdbeb37.svg" />
-    <span id="language-picker-description-b7aee9ef">
+    <span id="language-picker-description-7cc3fb1b">
       Language
     </span>
 </button>  <ul
-    id="language-picker-b7aee9ef"
-    aria-describedby="language-picker-description-b7aee9ef"
+    id="language-picker-7cc3fb1b"
+    aria-describedby="language-picker-description-7cc3fb1b"
     class="usa-accordion__content language-picker__list"
     hidden
   >
