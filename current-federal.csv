@@ -13,7 +13,7 @@
 
   <title>Welcome | Login.gov</title>
 
-  <script nonce="59821e566cac606b18be8864b2e798c5">
+  <script nonce="235a314656184e9ab41cc4cab4471e5d">
 //<![CDATA[
 
     document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, 'js');
@@ -24,7 +24,7 @@
   <link rel="stylesheet" href="/assets/application-cac6ed93.css" media="all" />
   <link rel="stylesheet" href="/assets/tab_navigation_component-6311b2de.css" /><link rel="stylesheet" href="/assets/password_toggle_component-9050b0a0.css" />
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="7v98E0f0lTQhigtwxmUHh4o8QVtoNP6VJQJ51HdhL_P_MZcoCIxj7pU-DBaDdIByD8kwjXjb_txnGo8FrH2Low" />
+<meta name="csrf-token" content="XpDGB3Nx3--fzPBf6NXQpv2aoE6U0j1pktLZNBlGnBRxUyn5gMVILCzYM4xm9V_6mJ7BKOQxJ2zbnh8uUL_IWA" />
 
   <link rel="apple-touch-icon" type="image/png" href="/assets/favicons/apple-touch-icon-24056e34.png" sizes="180x180" />
   <link rel="icon" type="image/png" href="/assets/favicons/favicon-40-0fde917b.png" sizes="40x40" />
@@ -32,7 +32,7 @@
   <link rel="mask-icon" href="/assets/favicons/safari-pinned-tab-a510c7b9.svg" color="#e21c3d" />
   <meta content="#ffffff" name="theme-color" />
 
-  <script nonce="59821e566cac606b18be8864b2e798c5">
+  <script nonce="235a314656184e9ab41cc4cab4471e5d">
 //<![CDATA[
 
     _e=[],addEventListener("error",(e)=>_e.push(e));
@@ -67,7 +67,7 @@
         </div>
       </div>
       <div class="usa-banner__content usa-accordion__content" id="gov-banner">
-        <script nonce="59821e566cac606b18be8864b2e798c5">
+        <script nonce="235a314656184e9ab41cc4cab4471e5d">
 //<![CDATA[
 
           document.getElementById('gov-banner').setAttribute('hidden', '');
@@ -128,24 +128,24 @@
 
 
 
-<form class="simple_form margin-top-4 new_user" id="new_user" autocomplete="off" action="/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1FKWoBh8SvdJV31ZnMSHNl8hrp2KnY3XT3oOL8Vod0Kq3FyGGk6RESFli8OGKegebjgSM7U0II25Vm7ooOxRqg" autocomplete="off" />
-  <lg-validated-field error-id="validated-field-error-9749b9c4">
+<form class="simple_form margin-top-4 new_user" id="new_user" autocomplete="off" action="/" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GJIKwAArtUAIqyPc6XJdd_4Vmm3KqCiCMykiTu1gR2Lc-mFiLokT3eN_adFyA04kWKNWZ59l-VM9F1wh3MK1VQ" autocomplete="off" />
+  <lg-validated-field error-id="validated-field-error-7c599fe1">
   <script type="application/json" class="validated-field__error-strings">{"valueMissing":"This field is required"}</script>
   <div class="margin-bottom-4 email required user_email validated-field__input-wrapper"><label class="usa-label email required" for="user_email">Email address</label><input class="usa-input usa-input--big string email required validated-field__input" autocorrect="off" aria-invalid="false" required="required" type="email" name="user[email]" id="user_email" /></div>
 </lg-validated-field>
   <lg-password-toggle class="margin-bottom-4">
-  <lg-validated-field error-id="validated-field-error-ecd0f721">
+  <lg-validated-field error-id="validated-field-error-d45ad99f">
   <script type="application/json" class="validated-field__error-strings">{"valueMissing":"This field is required"}</script>
-  <div class="margin-bottom-4 password required user_password validated-field__input-wrapper"><label class="usa-label password required" for="password-toggle-input-abc1e0bd">Password</label><input class="usa-input usa-input--big password required password-toggle__input validated-field__input" autocomplete="current-password" id="password-toggle-input-abc1e0bd" aria-invalid="false" required="required" type="password" name="user[password]" /></div>
+  <div class="margin-bottom-4 password required user_password validated-field__input-wrapper"><label class="usa-label password required" for="password-toggle-input-3880e4f9">Password</label><input class="usa-input usa-input--big password required password-toggle__input validated-field__input" autocomplete="current-password" id="password-toggle-input-3880e4f9" aria-invalid="false" required="required" type="password" name="user[password]" /></div>
 </lg-validated-field>
   <input
-    id="password-toggle-abc1e0bd"
+    id="password-toggle-3880e4f9"
     type="checkbox"
     class="usa-checkbox__input password-toggle__toggle"
-    aria-controls="password-toggle-input-abc1e0bd"
+    aria-controls="password-toggle-input-3880e4f9"
   >
   <label
-    for="password-toggle-abc1e0bd"
+    for="password-toggle-3880e4f9"
     class="usa-checkbox__label password-toggle__toggle-label"
   >
     Show password
@@ -176,17 +176,17 @@
     </div>
 </main>  <footer class="footer">
   <a class="display-none tablet:display-inline usa-link--external" target="_blank" rel="noopener noreferrer" href="https://www.gsa.gov">
-    <img alt="" class="float-left margin-right-1" src="https://idp.int.identitysandbox.gov/assets/sp-logos/square-gsa-2e9100eb.svg" width="20" height="20" />
+    <img alt="" class="float-left margin-right-1" src="https://idp.int.identitysandbox.gov/assets/sp-logos/square-gsa-28b36c7a.svg" width="20" height="20" />
     US General Services Administration<span class="usa-sr-only">(opens new tab)</span></a>  <div class="language-picker usa-accordion footer__language-picker">
-  <button class="usa-accordion__button language-picker__label" aria-controls="language-picker-ee286cce" aria-expanded="false">
+  <button class="usa-accordion__button language-picker__label" aria-controls="language-picker-f409f670" aria-expanded="false">
     <img width="12" height="12" alt="" class="tablet:display-none" src="https://idp.int.identitysandbox.gov/assets/globe-blue-2852c5b0.svg" />
     <img width="12" height="12" alt="" class="display-none tablet:display-inline" src="https://idp.int.identitysandbox.gov/assets/globe-white-0cdbeb37.svg" />
-    <span id="language-picker-description-ee286cce">
+    <span id="language-picker-description-f409f670">
       Language
     </span>
 </button>  <ul
-    id="language-picker-ee286cce"
-    aria-describedby="language-picker-description-ee286cce"
+    id="language-picker-f409f670"
+    aria-describedby="language-picker-description-f409f670"
     class="usa-accordion__content language-picker__list"
     hidden
   >
@@ -203,7 +203,7 @@
 </div>
   <div class="footer__links">
     <a class="tablet:display-none display-flex margin-right-2 usa-link--external" target="_blank" rel="noopener noreferrer" href="https://www.gsa.gov">
-      <img alt="US General Services Administration" src="https://idp.int.identitysandbox.gov/assets/sp-logos/square-gsa-dark-09497aa7.svg" width="20" height="20" /><span class="usa-sr-only">(opens new tab)</span></a>    <a class="margin-right-2 usa-link--external" target="_blank" rel="noopener noreferrer" href="https://www.login.gov/help/">Help<span class="usa-sr-only">(opens new tab)</span></a>
+      <img alt="US General Services Administration" src="https://idp.int.identitysandbox.gov/assets/sp-logos/square-gsa-dark-78322079.svg" width="20" height="20" /><span class="usa-sr-only">(opens new tab)</span></a>    <a class="margin-right-2 usa-link--external" target="_blank" rel="noopener noreferrer" href="https://www.login.gov/help/">Help<span class="usa-sr-only">(opens new tab)</span></a>
     <a class="margin-right-2 usa-link--external" target="_blank" rel="noopener noreferrer" href="https://www.login.gov/contact/">Contact<span class="usa-sr-only">(opens new tab)</span></a>
     <a target="_blank" class="usa-link--external" rel="noopener noreferrer" href="https://www.login.gov/policy/">Privacy &amp; security<span class="usa-sr-only">(opens new tab)</span></a>
   </div>
