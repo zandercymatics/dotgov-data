@@ -555,7 +555,7 @@ biggs-ca.gov,City,Non-Federal Agency,"Biggs, California",Biggs,CA,
 bigrapidstownshipmi.gov,City,Non-Federal Agency,Big Rapids Charter Township,Big Rapids,MI, 
 bigsandytx.gov,City,Non-Federal Agency,City of Big Sandy,Big Sandy,TX, 
 bigwaterut.gov,City,Non-Federal Agency,Big Water Municipal,Big Water,UT, 
-billingsmt.gov,City,Non-Federal Agency,City of Billings,Billings,MT, 
+billingsmt.gov,City,Non-Federal Agency,City of Billings,Billings,MT,security@billingsmt.gov
 billingsmtpublicworks.gov,City,Non-Federal Agency,City of Billings Public Works Department,Billings,MT, 
 binghamton-ny.gov,City,Non-Federal Agency,City of Binghamton,Binghamton,NY, 
 birminghamal911.gov,City,Non-Federal Agency,Birmingham Emergency Communication District,Birmingham,AL, 
@@ -782,7 +782,7 @@ canyonlakeca.gov,City,Non-Federal Agency,City of Canyon Lake,Canyon Lake,CA,
 canyontx.gov,City,Non-Federal Agency,City  of Canyon,Canyon,TX, 
 capecanaveral.gov,City,Non-Federal Agency,City of Cape Canaveral: CAPE Center,Cape Canaveral,FL, 
 capecoralfl.gov,City,Non-Federal Agency,City of Cape Coral,Cape Coral,FL, 
-capecoral.gov,City,Non-Federal Agency,City of Cape Coral IT Department,Cape Coral,FL, 
+capecoral.gov,City,Non-Federal Agency,City of Cape Coral IT Department,Cape Coral,FL,infosec@capecoral.gov
 capitolheightsmd.gov,City,Non-Federal Agency,Town of Capitol Heights Maryland,Capitol Heights,MD, 
 careyohio.gov,City,Non-Federal Agency,Village of Carey ,Carey,OH, 
 carlislema.gov,City,Non-Federal Agency,Town of Carlisle,Carlisle,MA, 
@@ -1107,7 +1107,6 @@ cityofrogerstx.gov,City,Non-Federal Agency,City of Rogers,Rogers,TX,
 cityofroncevertewv.gov,City,Non-Federal Agency,City of Ronceverte,Ronceverte,WV, 
 cityofroyaltonmn.gov,City,Non-Federal Agency,City of Royalton,Royalton,MN, 
 cityofsacramento.gov,City,Non-Federal Agency,City of Sacramento,Sacramento,CA, 
-cityofsalemky.gov,City,Non-Federal Agency,City of Salem Kentucky,Salem,KY, 
 cityofsalemnj.gov,City,Non-Federal Agency,City of Salem,Salem,NJ, 
 cityofsanaugustinetx.gov,City,Non-Federal Agency,City of San Augustine,San Augustine,TX, 
 cityofsanmateoca.gov,City,Non-Federal Agency,City of San Mateo,San Mateo,CA, 
@@ -1454,7 +1453,7 @@ dublin-ca.gov,City,Non-Federal Agency,City of Dublin,Dublin,CA,
 dublinca.gov,City,Non-Federal Agency,City of Dublin,Dublin,CA, 
 dublinohiousa.gov,City,Non-Federal Agency,"City of Dublin, Ohio",Dublin,OH,registrar@dotgov.gov
 duboispa.gov,City,Non-Federal Agency,City of DuBois PA,DuBois,PA, 
-dudleyma.gov,City,Non-Federal Agency,Town of Dudley,Dudley,MA, 
+dudleyma.gov,City,Non-Federal Agency,Town of Dudley,Dudley,MA,accountant@dudleyma.gov
 dudleypolicema.gov,City,Non-Federal Agency,Dudley Police Department,Dudley,MA, 
 duewestsc.gov,City,Non-Federal Agency,Town Of Due West,Due West,SC, 
 duluthmn.gov,City,Non-Federal Agency,City of Duluth,Duluth,MN, 
@@ -1594,7 +1593,6 @@ enterpriseal.gov,City,Non-Federal Agency,City of Enterprise,Enterprise,AL,
 enterpriseoregon.gov,City,Non-Federal Agency,City of Enterprise,Enterprise,OR, 
 eppingnh.gov,City,Non-Federal Agency,Town of Epping,Epping,NH,support@ccsnh.com
 epsomnhpolice.gov,City,Non-Federal Agency,Epsom Police Department,Epsom,NH, 
-erda.gov,City,Non-Federal Agency,The City of Erda,Erda,UT,jb4erda@gmail.com
 erlangerky.gov,City,Non-Federal Agency,City of Erlanger,Erlanger,KY, 
 erving-ma.gov,City,Non-Federal Agency,Town of Erving,Erving,MA, 
 erwinmi.gov,City,Non-Federal Agency,Erwin Township,Ironwood,MI, 
@@ -1796,7 +1794,7 @@ fulsheartexas.gov,City,Non-Federal Agency,City of Fulshear,Fulshear,TX,
 gahanna.gov,City,Non-Federal Agency,City of Gahanna,Gahanna,OH,brandon.mccorkle@gahanna.gov
 gainesborotn.gov,City,Non-Federal Agency,Upper Cumberland Development District,Cookeville,TN, 
 gainesvillega.gov,City,Non-Federal Agency,City of Gainesville,Gainesville,GA, 
-gaithersburgmd.gov,City,Non-Federal Agency,City of Gaithersburg,Gaithersburg,MD, 
+gaithersburgmd.gov,City,Non-Federal Agency,City of Gaithersburg,Gaithersburg,MD,itsecurity@gaithersburgmd.gov
 galenaks.gov,City,Non-Federal Agency,City of Galena,GALENA,KS, 
 galenaohio.gov,City,Non-Federal Agency,Village of Galena,Galena,OH, 
 gallaghertownshippa.gov,City,Non-Federal Agency,Gallagher Township Authority,Lock Haven,PA, 
@@ -2393,7 +2391,7 @@ lakepoint.gov,City,Non-Federal Agency,Lake Point City Council,Lake Point,UT,
 lakeporttx.gov,City,Non-Federal Agency,City of Lakeport,Lakeport,TX,lakeport.chief@att.net
 lakesaintlouismo.gov,City,Non-Federal Agency,City of Lake Saint Louis,Lake Saint Louis,MO,administrator@lakesaintlouis.com
 lakeshiremo.gov,City,Non-Federal Agency,City of Lakeshire,Lakeshire,MO, 
-lakesitetn.gov,City,Non-Federal Agency,Lakesite,Lakesite,TN, 
+lakesitetn.gov,City,Non-Federal Agency,Lakesite,Lakesite,TN,jplacroix@lakesitetn.gov
 lakestation-in.gov,City,Non-Federal Agency,The City of Lake Station Indiana,Lake Station,IN, 
 lakestevenswa.gov,City,Non-Federal Agency,City of Lake Stevens,Lake Stevens,WA, 
 laketanglewoodtx.gov,City,Non-Federal Agency,Village of Lake Tanglewood,Amarillo,TX, 
@@ -2565,7 +2563,7 @@ longviewtexas.gov,City,Non-Federal Agency,City of Longview,Longview,TX,
 longviewtx.gov,City,Non-Federal Agency,"City of Longview, TX",Longview,TX, 
 lorenatx.gov,City,Non-Federal Agency,City of Lorena Texas,Lorena,TX, 
 losgatosca.gov,City,Non-Federal Agency,Town of Los Gatos,Los Gatos,CA, 
-loslunasnm.gov,City,Non-Federal Agency,Village of Los Lunas,Los Lunas,NM, 
+loslunasnm.gov,City,Non-Federal Agency,Village of Los Lunas,Los Lunas,NM,support@loslunasnm.gov
 losranchosnm.gov,City,Non-Federal Agency,Village of Los Ranchos de Albuquerque,Los Ranchos de Albuquerque,NM, 
 lott-tx.gov,City,Non-Federal Agency,City of Lott,Lott,TX,registrar@dotgov.gov
 louisburgkansas.gov,City,Non-Federal Agency,City of Louisburg,Louisburg,KS, 
@@ -2755,7 +2753,7 @@ metropolisil.gov,City,Non-Federal Agency,City of Metropolis,Metropolis,IL,
 mexicobeachfl.gov,City,Non-Federal Agency,City of Mexico Beach,Mexico Beach,FL, 
 miamiaz.gov,City,Non-Federal Agency,Town of Miami,Miami,AZ, 
 miamibeachfl.gov,City,Non-Federal Agency,City of Miami Beach,Miami Beach,FL, 
-miami.gov,City,Non-Federal Agency,City of Miami,Miami,FL, 
+miami.gov,City,Non-Federal Agency,City of Miami,Miami,FL,itdsecurityteam@miamigov.com
 miamilakes-fl.gov,City,Non-Federal Agency,Town of Miami Lakes,Miami Lakes,FL, 
 miamisprings-fl.gov,City,Non-Federal Agency,City of Miami Springs,Miami Springs,FL, 
 miamitownshipoh.gov,City,Non-Federal Agency,Miami Township Administration,Milford,OH, 
@@ -3266,7 +3264,7 @@ parkvillemo.gov,City,Non-Federal Agency,City of Parkville,Parkville,MO,mmcchesne
 parmaheightsoh.gov,City,Non-Federal Agency,City of Parma Heights,Parma Heights,OH, 
 parsonspdks.gov,City,Non-Federal Agency,Parsons Police Department,Parsons,KS, 
 pasadena.gov,City,Non-Federal Agency,City of Pasadena,Pasadena,CA, 
-pasadenatx.gov,City,Non-Federal Agency,"City of Pasadena, Texas",Pasadena,TX, 
+pasadenatx.gov,City,Non-Federal Agency,"City of Pasadena, Texas",Pasadena,TX,registrar@dotgov.gov
 pasco-wa.gov,City,Non-Federal Agency,City of Pasco,Pasco,WA, 
 patagonia-az.gov,City,Non-Federal Agency,Town of Patagonia,Patagonia,AZ, 
 patersonnj.gov,City,Non-Federal Agency,City of Paterson,Paterson,NJ, 
@@ -3522,7 +3520,7 @@ ribmountainwi.gov,City,Non-Federal Agency,Town of Rib Mountain,Wausau,WI,
 ricetx.gov,City,Non-Federal Agency,City of Rice,Rice,TX, 
 richfieldadamscowi.gov,City,Non-Federal Agency,Town of Richfield,Coloma,WI, 
 richfieldmn.gov,City,Non-Federal Agency,City of Richfield,Richfield,MN, 
-richfieldwi.gov,City,Non-Federal Agency,Town of Richfield,Hubertus,WI, 
+richfieldwi.gov,City,Non-Federal Agency,Town of Richfield,Hubertus,WI,ryan.custer@ontech.com
 richlandcenterwi.gov,City,Non-Federal Agency,City of Richland Center,Richland Center,WI, 
 richlandms.gov,City,Non-Federal Agency,City of Richland,Richland,MS, 
 richlandsnc.gov,City,Non-Federal Agency,Town of Richlands,Richlands,NC,registrar@dotgov.gov
@@ -4290,7 +4288,7 @@ townofredriverwis.gov,City,Non-Federal Agency,Town of Red River,Luxemburg,WI,
 townofriblakewi.gov,City,Non-Federal Agency,Town of Rib Lake,Rib Lake,WI,registrar@dotgov.gov
 townofrichfordwi.gov,City,Non-Federal Agency,Town of Richford,Coloma,WI, 
 townofrichlandwi.gov,City,Non-Federal Agency,"RICHLAND,TOWN OF",RICHLAND CENTER,WI, 
-townofrichmond-walworthwi.gov,City,Non-Federal Agency,Town of Richmond,Whitewater,WI, 
+townofrichmond-walworthwi.gov,City,Non-Federal Agency,Town of Richmond,Whitewater,WI,ceasb@idcnet.com
 townofrichmondwi.gov,City,Non-Federal Agency,"Town of Richmond, St. Croix County WI",NEW RICHMOND,WI, 
 townofriverheadny.gov,City,Non-Federal Agency,Town of Riverhead,Riverhead,NY, 
 townofrockwi.gov,City,Non-Federal Agency,Town of Rock,Afton,WI, 
@@ -4867,9 +4865,11 @@ zionsville-in.gov,City,Non-Federal Agency,Town of Zionsville,Zionsville,IN,
 apexnc.gov,City,,"APEX, TOWN OF",Apex,NC,erika.sacco@apexnc.org
 canalwinchesterohio.gov,City,,City of Canal Winchester,Canal Winchester,OH,rbrown@canalwinchesterohio.gov
 cityofcoweta-ok.gov,City,,City of Coweta,Coweta,OK,cityclerk@cityofcoweta-ok.gov
+cityofsalemky.gov,City,,City of Salem Kentucky,Salem,KY,security@cityofsalemky.gov
 claremontca.gov,City,,City of Claremont,Claremont,CA,dotgov@cisa.dhs.gov
 clintonma.gov,City,,Town of Clinton,Clinton,MA, 
 dandridgetn.gov,City,,Dandridge,Dandridge,TN,registrar@dotgov.gov
+erda.gov,City,,The City of Erda,Erda,UT,jb4erda@gmail.com
 firestoneco.gov,City,,Town of Firestone,Firestone,CO,registrar@dotgov.gov
 jacksonms.gov,City,,City of Jackson,Jackson,MS, 
 manchestermo.gov,City,,City of Manchester,Manchester,MO,registrar@dotgov.gov
@@ -5956,7 +5956,7 @@ miami-dade.gov,County,Non-Federal Agency,Miami Dade County,Miami,FL,
 miamidade.gov,County,Non-Federal Agency,Miami Dade County,Miami,FL, 
 middlesexcountynj.gov,County,Non-Federal Agency,Middlesex County Government,New Brunswick,NJ, 
 midlandcountymi.gov,County,Non-Federal Agency,"Midland County, MI",Midland,MI, 
-mifflincountypa.gov,County,Non-Federal Agency,Mifflin County,Lewistown,PA, 
+mifflincountypa.gov,County,Non-Federal Agency,Mifflin County,Lewistown,PA,mis@mifflinco.org
 milivcounty.gov,County,Non-Federal Agency,Livingston County Michigan,Howell,MI, 
 millercountyga.gov,County,Non-Federal Agency,Miller County Board of Commissioners,Colquitt,GA,countymanager@millercountyga.gov
 millercountymo.gov,County,Non-Federal Agency,Miller County,Tuscumbia,MO, 
@@ -6596,7 +6596,7 @@ winklercotxtax.gov,County,Non-Federal Agency,Winkler County Tax Office,Kermit,TX
 winnebagocountyiowa.gov,County,Non-Federal Agency,Winnebago County,Forest City,IA, 
 winnebagocountywi.gov,County,Non-Federal Agency,Winnebago County,Oshkosh,WI,security@winnebagocountywi.gov
 wirtcountywvsheriff.gov,County,Non-Federal Agency,Wirt County Sheriff Department,Elizabeth,WV, 
-woodburycountyiowa.gov,County,Non-Federal Agency,Woodbury County Iowa,Sioux City,IA, 
+woodburycountyiowa.gov,County,Non-Federal Agency,Woodbury County Iowa,Sioux City,IA,registrar@dotgov.gov
 woodcountyohio.gov,County,Non-Federal Agency,Wood County Commissioners,Bowling Green,OH, 
 woodfordcountyil.gov,County,Non-Federal Agency,County of Woodford,Eureka,IL,cshearhod@heart.net
 woodfordcountyky.gov,County,Non-Federal Agency,Woodford County Fiscal Court,Versailles,KY, 
@@ -6674,7 +6674,7 @@ consumerfinancialprotectionbureau.gov,Federal - Executive,Consumer Financial Pro
 consumerprotectionbureau.gov,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC, 
 consumerprotection.gov,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC, 
 mimm.gov,Federal - Executive,Consumer Financial Protection Bureau,Consumer Financial Protection Bureau,Washington,DC, 
-anchorit.gov,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD, 
+anchorit.gov,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov
 atvsafety.gov,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD, 
 cpsc.gov,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD,csirt@cpsc.gov
 drywallresponse.gov,Federal - Executive,Consumer Product Safety Commission,Consumer Product Safety Commission,Bethesda,MD, 
@@ -7064,7 +7064,7 @@ hudoig.gov,Federal - Executive,Department of Housing and Urban Development,Offic
 huduser.gov,Federal - Executive,Department of Housing and Urban Development,"U.S. Department of Housing and Urban Development, Office of Policy Development and Research",Washington,DC,support@huduser.gov
 nationalhousing.gov,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC, 
 nationalhousinglocator.gov,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC, 
-nhl.gov,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC, 
+nhl.gov,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov
 nls.gov,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC,vdp@hud.gov
 opportunityzones.gov,Federal - Executive,Department of Housing and Urban Development,Department of Housing and Urban Development,Washington,DC, 
 ada.gov,Federal - Executive,Department of Justice,Civil Rights Division,Washington,DC, 
@@ -7363,7 +7363,7 @@ dotideahub.gov,Federal - Executive,Department of Transportation,U.S. Department 
 ems.gov,Federal - Executive,Department of Transportation,National Highway Traffic Safety Administration,Washington,DC, 
 esc.gov,Federal - Executive,Department of Transportation,FAA MMAC,Oklahoma City,OK, 
 faa.gov,Federal - Executive,Department of Transportation,Federal Aviation Administration,Washington,DC, 
-faasafety.gov,Federal - Executive,Department of Transportation,FAASTeam,Washington,DC, 
+faasafety.gov,Federal - Executive,Department of Transportation,FAASTeam,Washington,DC,vulnerabilitydisclosure@faa.gov
 flightrights.gov,Federal - Executive,Department of Transportation,U.S. Department of Transportation Office of Aviation Consumer Protection,Washington,DC, 
 flyhealthy.gov,Federal - Executive,Department of Transportation,Federal Aviation Administration,Washington,DC, 
 jccbi.gov,Federal - Executive,Department of Transportation,DOT/FAA/MMAC.AMi400,Oklahoma City,OK, 
@@ -7710,7 +7710,7 @@ oge.gov,Federal - Executive,Office of Government Ethics,Office of Government Eth
 applicationmanager.gov,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,cybersolutions@opm.gov
 chcoc.gov,Federal - Executive,Office of Personnel Management,Chief Human Capital Officers,Washington,DC,dana.dulaney@opm.gov
 cybercareers.gov,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Washington,DC, 
-employeeexpress.gov,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA, 
+employeeexpress.gov,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov
 e-qip.gov,Federal - Executive,Office of Personnel Management,Defense Counterintelligence and Security Agency,Washington,DC, 
 feb.gov,Federal - Executive,Office of Personnel Management,Federal Executive Board,Washington,DC,dana.dulaney@opm.gov
 federaljobs.gov,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov
@@ -7721,7 +7721,7 @@ fsafeds.gov,Federal - Executive,Office of Personnel Management,OPM Federal Emplo
 golearn.gov,Federal - Executive,Office of Personnel Management,OPM Center for Leadership Development,Washington,DC, 
 governmentjobs.gov,Federal - Executive,Office of Personnel Management,OPM Human Resource Solutions,Macon,GA,dana.dulaney@opm.gov
 opm.gov,Federal - Executive,Office of Personnel Management,Office Of Personnel Management,Macon,GA,dana.dulaney@opm.gov
-pac.gov,Federal - Executive,Office of Personnel Management,Performance Accountability Council,Washington,DC, 
+pac.gov,Federal - Executive,Office of Personnel Management,Performance Accountability Council,Washington,DC,kevin.crews@opm.gov
 pmf.gov,Federal - Executive,Office of Personnel Management,Presidential Management Fellows,Washington,DC, 
 telework.gov,Federal - Executive,Office of Personnel Management,"OPM Policy, Data, Oversight",Washington,DC,dana.dulaney@opm.gov
 unlocktalent.gov,Federal - Executive,Office of Personnel Management,OPM Enterprise Human Resources Integration,Washington,DC,Dana.Dulaney@OPM.GOV
@@ -8260,7 +8260,7 @@ postlakeswi.gov,Special district,Non-Federal Agency,Post Lakes Protection and Re
 prairiepointmdsco.gov,Special district,Non-Federal Agency,"Prairie Point Metropolitan District Nos. 1, 2, and 3 and the Prairie Point Community Authority Board",Denver,CO, 
 prismrisk.gov,Special district,Non-Federal Agency,"Public Risk Innovation, Solutions, and Management",Folsom,CA, 
 prwid.gov,Special district,Non-Federal Agency,Price River Water Improvement District,Price,UT, 
-pscleanair.gov,Special district,Non-Federal Agency,Puget Sound Clean Air Agency,Seattle,WA, 
+pscleanair.gov,Special district,Non-Federal Agency,Puget Sound Clean Air Agency,Seattle,WA,security@pscleanair.gov
 redgranitefdwi.gov,Special district,Non-Federal Agency,REDGRANITE AREA FIRE DISTRICT,REDGRANITE,WI, 
 resourcecoop-mn.gov,Special district,Non-Federal Agency,Resource Training and Solutions,Sartell,MN,security@resourcecoop-mn.gov
 rhanc.gov,Special district,Non-Federal Agency,Raleigh Housing Authority,Raleigh,NC,info@rhaonline.com
