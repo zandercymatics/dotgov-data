@@ -4980,7 +4980,7 @@ swparegionalcad.gov,County,,Beaver County Information Technology,Beaver,PA,itser
 talbotcountymd.gov,County,,Talbot County Government,Easton,MD,registrar@dotgov.gov
 townofwescott-wi.gov,County,,Town Of Wescott,Shawano,WI,helpdesk@loyality.com
 trousdalecountytn.gov,County,,Hartsville/Trousdale County Government,Hartsville,TN,AMY.THOMAS@TROUSDALECOUNTYTN.GOV
-ulstercountyny.gov,County,,County of Ulster,Kingston,NY,amac@co.ulster.ny.us
+ulstercountyny.gov,County,,County of Ulster,Kingston,NY,ucis@co.ulster.ny.us
 voteokaloosa.gov,County,,Okaloosa County Elections Office,Crestview,FL,plux@myokaloosa.com
 wallowacounty.gov,County,,Wallowa County Government,Enterprise,OR,wctech@co.wallowa.or.us
 waltoncountyga.gov,County,,Walton County Board of Commissioners,Monroe,GA,registrar@dotgov.gov
@@ -9617,7 +9617,6 @@ barona-nsn.gov,Tribal,Non-Federal Agency,Barona Band of Mission Indians,Lakeside
 bihasitka-nsn.gov,Tribal,Non-Federal Agency,Baranof Island Housing Authority,Sitka,AK,registrar@dotgov.gov
 bluelakerancheria-nsn.gov,Tribal,Non-Federal Agency,Blue Lake Rancheria,Blue Lake,CA,knorton@bluelakerancheria-nsn.gov
 boisforte-nsn.gov,Tribal,Non-Federal Agency,Bois Forte Reservation Tribal Council,Nett Lake,MN,registrar@dotgov.gov
-brb-nsn.gov,Tribal,Non-Federal Agency,BEAR RIVER BAND OF THE ROHNERVILLE RANCHERIA,LOLETA,CA,registrar@dotgov.gov
 burnspaiute-nsn.gov,Tribal,Non-Federal Agency,Burns Paiute Tribe,Burns,OR,mocanjl3@burnspaiute-nsn.gov
 bvr-nsn.gov,Tribal,Non-Federal Agency,Big Valley Rancheria,Lakeport,CA,noc@big-valley.net
 cabazonindians-nsn.gov,Tribal,Non-Federal Agency,Cabazon Band of Mission Indians,Indio,CA,dlindsey@fantasysprings.net
@@ -9648,7 +9647,7 @@ chumash.gov,Tribal,Non-Federal Agency,Santa Ynez Band of Chumash Indians,Santa Y
 cit-nsn.gov,Tribal,Non-Federal Agency,Chemehuevi Indian Tribe,Havasu Lake,CA,it@cit-nsn.gov
 cocopah.gov,Tribal,Non-Federal Agency,Cocopah Indian Tribe,Somerton,AZ,mcsweeneyn@cocopah.gov
 coldspringsrancheria.gov,Tribal,Non-Federal Agency,Cold Springs Rancheria ,Tollhouse,CA,engineers@gopcsolutions.com
-colusa-nsn.gov,Tribal,Non-Federal Agency,Colusa Indian Community Council,Colusa,CA,registrar@dotgov.gov
+colusa-nsn.gov,Tribal,Non-Federal Agency,Colusa Indian Community Council,Colusa,CA,mis@colusa-nsn.gov
 comanchenationpolice.gov,Tribal,Non-Federal Agency,Comanche Nation Law Enforcement,Lawton,OK,it@ctg-us.com
 cowcreek-nsn.gov,Tribal,Non-Federal Agency,Cow Creek Band of Umpqua Tribe of Indians,Roseburg,OR,registrar@dotgov.gov
 coyotevalley-nsn.gov,Tribal,Non-Federal Agency,Coyote Valley Tribe,Redwood valley,CA,registrar@dotgov.gov
@@ -9828,5 +9827,6 @@ yakamafish-nsn.gov,Tribal,Non-Federal Agency,Yakama Nation Fisheries Resource Ma
 yakamanation-nsn.gov,Tribal,Non-Federal Agency,Confederated Tribes and Bands of the Yakama Nation,Toppenish,WA,andrea_mitchell@yakama.com
 ydsp-nsn.gov,Tribal,Non-Federal Agency,Ysleta Del Sur Pueblo,El Pas,TX,jpineira@ydsp-nsn.gov
 ypt-nsn.gov,Tribal,Non-Federal Agency,Yerington Paiute Tribe,Yerington,NV,ittech@ypt-nsn.gov
+brb-nsn.gov,Tribal,,BEAR RIVER BAND OF THE ROHNERVILLE RANCHERIA,LOLETA,CA,registrar@dotgov.gov
 campo-nsn.gov,Tribal,,Campo Kumeyaay Nation,Campo,CA,tcervantes@campo-nsn.gov
 oglala.gov,Tribal,,Oglala Sioux Tribe,Pine Ridge,SD,Tawny.Zimiga@OLTLLC.com
