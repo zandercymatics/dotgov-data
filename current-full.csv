@@ -751,7 +751,6 @@ californiapa.gov,City,Non-Federal Agency,Borough of California,CALIFORNIA,PA,sec
 callawaymn.gov,City,Non-Federal Agency,City of Callaway,Callaway,MN,callaway@arvig.net
 calumettwp-in.gov,City,Non-Federal Agency,Calumet Township Trustee Office,Gary,IN,(blank)
 calvertcityky.gov,City,Non-Federal Agency,City of Calvert City,Calvert City,KY,support@smartpathtech.com
-calverttx.gov,City,Non-Federal Agency,City of Calvert,Calvert,TX,admin@calvertcity.org
 cambridgema.gov,City,Non-Federal Agency,"City of Cambridge, Ma",Cambridge,MA,smaywalt@cambridgema.gov
 cambridgeny.gov,City,Non-Federal Agency,The Village of Cambridge,Cambridge,NY,jameswsweeney@gmail.com
 cambridgetownshipmi.gov,City,Non-Federal Agency,Cambridge Township,Onsted,MI,rick@cambridgetownshipmi.gov
@@ -4764,7 +4763,6 @@ williamsburgiowa.gov,City,Non-Federal Agency,City of Williamsburg,Williamsburg,I
 williamsburgva.gov,City,Non-Federal Agency,City of Williamsburg,Williamsburg,VA,mbarham@williamsburgva.gov
 williamsportmd.gov,City,Non-Federal Agency,"Town of Williamsport, Maryland",Williamsport,MD,crooney@williamsportmd.org
 williamstonmipd.gov,City,Non-Federal Agency,Williamston Police Department,Williamston,MI,adminasst@williamston-mi.us
-williamstownma.gov,City,Non-Federal Agency,Town of Williamstown,Williamstown,MA,(blank)
 williamstownmi.gov,City,Non-Federal Agency,Williamstown Township,Williamstown,MI,security@williamstownmi.gov
 willingboronj.gov,City,Non-Federal Agency,Willingboro Township,Willingboro,NJ,sobryant@willingboronj.gov
 willingtonct.gov,City,Non-Federal Agency,Town of Willington,Willington,CT,kicart@novusinsight.com
@@ -4863,6 +4861,7 @@ yumaaz.gov,City,Non-Federal Agency,City of Yuma,Yuma,AZ,(blank)
 zilwaukeemichigan.gov,City,Non-Federal Agency,City Of Zilwaukee ,Zilwaukee,MI,(blank)
 zionsville-in.gov,City,Non-Federal Agency,Town of Zionsville,Zionsville,IN,jrust@zionsville-in.gov
 apexnc.gov,City,,"APEX, TOWN OF",Apex,NC,erika.sacco@apexnc.org
+calverttx.gov,City,,City of Calvert,Calvert,TX,admin@calvertcity.org
 canalwinchesterohio.gov,City,,City of Canal Winchester,Canal Winchester,OH,rbrown@canalwinchesterohio.gov
 cityofcoweta-ok.gov,City,,City of Coweta,Coweta,OK,cityclerk@cityofcoweta-ok.gov
 cityofsalemky.gov,City,,City of Salem Kentucky,Salem,KY,security@cityofsalemky.gov
@@ -4896,6 +4895,7 @@ townofwendellnc.gov,City,,Town of Wendell,Wendell,NC,itsecurity@townofwendellnc.
 tuskegeealabama.gov,City,,City of Tuskegee,Tuskegee,AL,(blank)
 wellingtoncolorado.gov,City,,Town of Wellington,Wellington,CO,itsupport@wellingtoncolorado.gov
 weststockbridge-ma.gov,City,,Town of West Stockbridge,West Stockbridge,MA,admin@weststockbridge-ma.gov
+williamstownma.gov,City,,Town of Williamstown,Williamstown,MA,(blank)
 winchester-nh.gov,City,,Town of Winchester ,Winchester,NH,(blank)
 windgap-pa.gov,City,,Wind Gap Borough,Wind Gap,PA,travis@triscari.com
 wvc-ut.gov,City,,City of West Valley,West Valley,UT,dnsadmin@wvc-ut.gov
@@ -7111,7 +7111,7 @@ foia.gov,Federal - Executive,Department of Justice,"Department of Justice, Offic
 forfeiture.gov,Federal - Executive,Department of Justice,"Criminal Division, Asset Forfeiture and Money Laundering Section (AFMLS)",Potomac,MD,Responsible_Disclosure@usdoj.gov
 fpi.gov,Federal - Executive,Department of Justice,Federal Prison Industries,Washington,DC,Responsible_Disclosure@usdoj.gov
 getsmartaboutdrugs.gov,Federal - Executive,Department of Justice,Drug Enforcement Administration,Springfield,VA,Responsible_Disclosure@usdoj.gov
-healthycompetition.gov,Federal - Executive,Department of Justice,Antitrust Division,Washington,DC,dotgov@cisa.dhs.gov
+healthycompetition.gov,Federal - Executive,Department of Justice,Antitrust Division,Washington,DC,Responsible_Disclosure@usdoj.gov
 ic3.gov,Federal - Executive,Department of Justice,Internet Crime Complaint Center,Fairmont,WV,Responsible_Disclosure@usdoj.gov
 interpol.gov,Federal - Executive,Department of Justice,"U.S. Department of Justice, U. S. NATIONAL CENTRAL BUREAU of INTERPOL (INTERPOL)",Potomac,MD,Responsible_Disclosure@usdoj.gov
 iprcenter.gov,Federal - Executive,Department of Justice,U.S Immigration and Customs Enforcement,Washington,DC,Responsible_Disclosure@usdoj.gov
