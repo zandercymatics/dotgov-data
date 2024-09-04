@@ -16,7 +16,7 @@ jobs:
           deno-version: v1.x
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: If pulled data has changes, commit and push changes to zone file.
+      - name: Pull from main
         run: |-
           git pull
       - name: Fetch data
@@ -24,6 +24,9 @@ jobs:
         with:
           http_url: https://manage.get.gov/api/v1/get-report/current-federal
           downloaded_filename: current-federal.csv
+      - name: Pull from main after commit
+        run: |-
+          git pull
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
