@@ -1,7 +1,7 @@
 name: data
 on:
   schedule:
-    - cron: 5 6 * * *
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}
   push:
     paths:
@@ -22,7 +22,7 @@ jobs:
       - name: Fetch data
         uses: githubocto/flat@v3
         with:
-          http_url: https://manage.get.gov/api/v1/get-report/current-federal
+          http_url: https://getgov-za.app.cloud.gov/api/v1/get-report/current-federal
           downloaded_filename: current-federal.csv
       - name: Pull from main after commit
         run: |-
